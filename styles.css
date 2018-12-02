@@ -3,16 +3,33 @@ h1 {
 }
 
 div {
-    text-align: center;
-    font-size: large;
+    font-size: larger;
 }
 
-#order-of-canada-image {
-    height: 300px;
+#image {
+    height: 400px;
     
 
 }
 
 #main {
     background-color: gray;
+}
+
+#img-caption {
+    font-weight: normal;
+}
+
+#tribute-info {
+    text-align: left;
+}
+
+#img-div {
+    text-align: center;
+}
+
+ul {
+    margin-left: auto;
+    margin-right: auto;
+    display: table;
 }
