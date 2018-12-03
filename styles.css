@@ -12,14 +12,12 @@ div {
 
 #image {
     max-width: 80%;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+    display: inline-block;
     height: auto;
 }
 
 #main {
-    background-color: gray;
+    background-color: #e5d597;
 }
 
 #img-caption {
